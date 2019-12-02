@@ -106,9 +106,9 @@ module.exports = __webpack_require__(/*! next/error */ "next/error")
 /***/ }),
 
 /***/ 2:
-/*!******************************************************!*\
-  !*** multi ./node_modules/next/dist/pages/_error.js ***!
-  \******************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** multi C:/Users/marco/Documents/Programming/Javascript/Advanced-React/sick-fits/frontend/node_modules/next/dist/pages/_error.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

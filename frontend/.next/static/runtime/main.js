@@ -5604,7 +5604,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\marco\\Documents\\Programming\\Javascript\\Advanced-React\\sick-fits\\frontend\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\users\\marco\\documents\\Programming\\Javascript\\Advanced-React\\sick-fits\\frontend\\.next");
       return error;
     }
   };
@@ -18004,9 +18004,9 @@ module.exports = {
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/global.js":
-/*!***********************************!*\
-  !*** (webpack)/buildin/global.js ***!
-  \***********************************/
+/*!************************************************!*\
+  !*** ./node_modules/webpack/buildin/global.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -18035,9 +18035,9 @@ module.exports = g;
 /***/ }),
 
 /***/ "./node_modules/webpack/buildin/module.js":
-/*!***********************************!*\
-  !*** (webpack)/buildin/module.js ***!
-  \***********************************/
+/*!************************************************!*\
+  !*** ./node_modules/webpack/buildin/module.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -18068,9 +18068,9 @@ module.exports = function(module) {
 /***/ }),
 
 /***/ 0:
-/*!******************************************************!*\
-  !*** multi ./node_modules/next/dist/client/next-dev ***!
-  \******************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** multi C:/Users/marco/Documents/Programming/Javascript/Advanced-React/sick-fits/frontend/node_modules/next/dist/client/next-dev ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
